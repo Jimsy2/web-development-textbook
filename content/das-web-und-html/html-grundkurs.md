@@ -3,7 +3,7 @@ title: HTML Grundkurs
 order: 30
 ---
 Wir werden HTML die aktuelle Version verwendet. Die wichtigsten HTML-Tags (Links, Bilder,
-Tabellen, Formulare) werden Sie bald auswendig können. Alle Details können Sie Intenet
+Tabellen, Formulare) werden Sie bald auswendig können. Alle Details können Sie im Internet
 nachschlagen.
 
 HTML hat sich in den ca. 20 Jahren seines Bestehens weit entwickelt. Die Version 5 wurde im Jahr 2014 veröffentlicht, danach gab es keine neuen Nummern mehr.
@@ -19,16 +19,16 @@ sie nur aktuelle HTML5.
 
 
 Arbeitsablauf
----------
+-------------
 Der Arbeitsablauf beim Erstellen von HTML ist eine endlose Schleife:
 
 1. Code im Editor eintippen
 2. Abspeichern
 3. Zum Browser wechseln
 4. Neu Laden, das Ergebnis betrachten
-5. meistens: nicht zufrieden mit dem Ergebnis sein, zurück zu 1.
+5. meistens: Nicht zufrieden mit dem Ergebnis sein, daher zurück zu 1.
 
-Es gibt verschiedene Online-Tools um HTMl auszuprobieren:
+Es gibt verschiedene Online-Tools, um HTML auszuprobieren:
 
 * [Slowparse](http://toolness.github.com/slowparse/demo/) erklärt die Struktur von HTML, hilft Fehler zu finden
 
@@ -36,18 +36,18 @@ Zeichensatz
 -----------
 
 HTML-Dateien bestehen aus reinem Text, in unserem Falle entweder aus Text im Format
-ISO 8859-1 (Latin-1)  oder im Format utf-8. Mit Latin-1 ist man auf das
-lateineische Alphabet mit westeuropäischen Sonderzeichen beschränkt - man kann
+ISO 8859-1 (Latin-1)  oder im Format UTF-8. Mit Latin-1 ist man auf das
+lateinische Alphabet mit westeuropäischen Sonderzeichen beschränkt - man kann
 im selben Dokument nicht auch grieschische, hebräische, arabische, japanische
-Zeichen darstellen.  Mit utf-8 hat man den gesamten Zeichensatz der Menschheit
-zur Verfügung. Mein Empfehlung lautet: immer utf-8 verwenden.
+Zeichen darstellen.  Mit UTF-8 hat man den gesamten Zeichensatz der Menschheit
+zur Verfügung. Mein Empfehlung lautet: Immer `utf-8` verwenden.
 
 
 
 ![](/images/das-web-und-html/vscodeutf8.png)
 
 So sieht das in Visual Studio Code aus wenn alles gut läuft:
-VS Code glaubt dass die Datei als utf-8 speichern soll,
+VS Code glaubt dass die Datei als UTF-8 speichern soll,
 und der meta-tag sagt das auch.
 
 
@@ -96,7 +96,7 @@ geschrieben werden:  `<br />` In HTML5 schreibt man diesen Tag (wieder) als `<br
 Whitespace
 ---------
 
-Sogenannter "whitespace  <!-- XE "whitespace" -->  " - das sind mehrere Leerzeichen,
+Sogenannter "whitespace<!-- XE "whitespace" -->" - das sind mehrere Leerzeichen,
 Tabulatoren und Zeilenumbrüche hintereinander – wird vom Browser völlig ignoriert. Ob Sie
 also in Ihrer HTML-Datei ein Leerzeichen oder 7 Leerzeilen einfügen macht keinen
 Unterschied. (gar kein Leerzeichen oder ein Leerzeichen macht schon einen Unterschied)
@@ -139,7 +139,7 @@ Es ist egal, in welcher Reihenfolge Sie die Attribute schreiben.
 
 
 Der Wert eines Attributes muß in XHTML immer in Anführungszeichen geschrieben
-werden, in HTML kann man die Anführungszeichen weglasse, dann endet der Wert
+werden, in HTML kann man die Anführungszeichen weglassen, dann endet der Wert
 beim nächsten Leerzeichen.
 
 <htmlcode>
@@ -154,7 +154,7 @@ __|__
   width=50 height=15>
 </htmlcode>
 
-ACHTUNG: ein häufiger Fehler ist es, das zweite Anführungszeichen zu vergessen:
+ACHTUNG! Ein häufiger Fehler ist es, das zweite Anführungszeichen zu vergessen.
 
 <htmlcode>
   <img alt="Das ist neu!" src="neu.svg">
@@ -183,7 +183,7 @@ Neue Attribute Tags, die z. B. ein
 Browser nicht erkennt, sind zu ignorieren – es gibt
 **keine Fehlermeldungen**!
 
-Das Attribut bli, welches nicht zu HTML gehört, also kein Browser kennt, wird wie andere
+Das Attribut `bli`, welches nicht zu HTML gehört, also kein Browser kennt, wird wie andere
 unbekannte Attribute einfach ignoriert.
 
 
