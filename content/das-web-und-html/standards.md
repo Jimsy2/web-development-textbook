@@ -95,7 +95,7 @@ Website
 
 Als Webseite wird also ein Dokument bezeichnet. Verwechseln Sie diesen Begriff nicht mit 
 dem englischen Wort Website<!-- XE "Website" -->  . Eine Website besteht aus mehreren 
-Webseiten, die zusammen gehören und untereinander verlinkt sind. Achtung: es gibt kein Wort <strike>Webside</strike>. 
+Webseiten, die zusammen gehören und untereinander verlinkt sind. Achtung: Es gibt kein Wort <strike>Webside</strike>. 
 
  
 
