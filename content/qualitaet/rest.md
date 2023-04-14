@@ -76,8 +76,8 @@ im Webserver umschreiben kann, mit der RewriteEngine von Apache.
 * http://ich.multimediatechnology.at/projekt-1/person/nina_nocheinbeispiel
 * http://ich.multimediatechnology.at/projekt-1/person/klaus_maria_nachname
 
-Im Beispiel der  Portfolio-Applikation könnte man das auch erreich,
-z.B. könnte man in die Datei `.htaccess` im Ordner projekt-1 schreiben:
+Im Beispiel der  Portfolio-Applikation könnte man das auch erreichen.
+Z.B. könnte man in die Datei `.htaccess` im Ordner projekt-1 schreiben:
 
 <plain filename=".htaccess">
 RewriteEngine On
@@ -88,7 +88,7 @@ RewriteRule ^person/(.*)   person.php?slug=$1  [L]
 
 #### Umsetzung
 
-die Umstellung einer bestehenden Applikation
+Die Umstellung einer bestehenden Applikation
 auf diese URLs hat Auswirkungen falls sie relative Links
 verwendet haben, um z.B. auf Stylesheets zu verweisen. Deswegen rate ich von
 einer nachträglichen Umstellung der URLs ab – das ist sehr viel mehr Arbeit als man
@@ -104,7 +104,7 @@ URLs konstruieren muss.
 
 #### Umsetzung
 
-dieses Prinzip müssen Ihre Web-Applikationen auf jeden Fall erfüllen.
+Dieses Prinzip müssen Ihre Web-Applikationen auf jeden Fall erfüllen.
 
 
 ### HTTP-Methoden GET, POST, PUT, DELETE
@@ -262,7 +262,7 @@ verwenden, wenn er unbedingt notwendig ist.
 
 §
 
-z.B. könnte man denken „Liste meiner ausgeliehenen Bücher“ sei von der Session abhängig.
+Z.B. könnte man denken „Liste meiner ausgeliehenen Bücher“ sei von der Session abhängig.
 Aber selbst hier könnte man eine fixe URL
 verwenden:
 
