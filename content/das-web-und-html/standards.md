@@ -19,7 +19,7 @@ Rund um diese drei Standards ordnen sich weitere wichtige Begriffe an:
 Client/Server
 -------------
 
-Das Client<!-- XE "Client" -->  /Server<!-- XE "Server" --> Prinzip ist ein allgemeines Prinzip wie 
+Das Client<!-- XE "Client" -->/Server<!-- XE "Server" --> Prinzip ist ein allgemeines Prinzip wie 
 Dienste in einem Computernetzwerk aufgebaut sein können: Ein Server ist ein Computer der 
 einen bestimmten Dienst anbietet, ein Client ist der „Kunde“, also der Computer der den 
 Dienst in Anspruch nimmt.
