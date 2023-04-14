@@ -4,7 +4,7 @@ order: 10
 ---
 
 Viele moderne Erfindungen sind das Ergebnis von Teamarbeit und langen
-Planungsprozessen. Nicht so das World Wide Web: es geht auf eine einzelne Person zurück.
+Planungsprozessen. Nicht so das World Wide Web: Es geht auf eine einzelne Person zurück.
 **Tim Berners-Lee**,  <!-- XE "Berners-Lee:Tim" -->  gebürtiger Engländer und studierter Physiker, hat
 es in den Jahren 1989, 1990, 1991 als EDV-Mitarbeiter am CERN  <!-- XE "CERN" -->   in der
 Schweiz entwickelt.
