@@ -50,7 +50,7 @@ mit grafischer Oberflächen stark zur Verbreitung des World Wide Web beigetragen
 die Browser Opera  <!-- XE "Opera" -->    <!-- XE "Browser:Opera" -->,   Mozilla  <!-- XE "Mozilla" -->    <!-- XE "Browser:Mozilla" -->  
 und Chrome (in Versionen aus verschiedenen Jahren).
  
-![Webbrowser: Mosaic (1993), Opera(2004) und Mozilla(2004), Chrome(2011)](/images/das-web-und-html/browsers.png)
+![Webbrowser: Mosaic (1993), Opera(2004) und Mozilla(2004), Chrome(2011)](../images/das-web-und-html/browsers.png)
 
 §
 
@@ -63,21 +63,21 @@ der nur Text darstellt, aber keine Bilder. Daneben sehen Sie eine
 Blindenschrift übersetzt. Mit diesem Webbrowser und diesem Ausgabegerät können Blinde 
 im Web surfen. 
     
-![Text-Only Browser "lynx" und Braille Ausgabegerät](/images/das-web-und-html/anderebrowser.png)
+![Text-Only Browser "lynx" und Braille Ausgabegerät](../images/das-web-und-html/anderebrowser.png)
 
 §
 
 In den letzten Jahren haben mobile Geräte mit Internetzugang stark an Bedeutung 
 zugenommen: Smartphones und Tablets. 
 
-![Anteil Desktop-Mobile-Tablet laut StatsCounter](/images/das-web-und-html/statcounter2009-2020.png)
+![Anteil Desktop-Mobile-Tablet laut StatsCounter](../images/das-web-und-html/statcounter2009-2020.png)
 
 Statistik von [StatsCounter](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide/#monthly-200901-202008)
 
 Auf diesen neuen Geräten gibt es auch Webbrowser - teilweise spezialisierte Software (Android Browser), teilweise
 adaptionen der klassischen Desktop Browser (Firefox).
  
-![Browser auf Smartphones, 2010](/images/das-web-und-html/browser-am-smartphone.jpg)
+![Browser auf Smartphones, 2010](../images/das-web-und-html/browser-am-smartphone.jpg)
 
 Webseite
 --------
@@ -87,7 +87,7 @@ Die Dokumente, die im Webbrowser dargestellt werden nennt man Webseiten. Eine We
 Eine Webseite kann – im Gegensatz zu einer Seite in einem Buch – beliebig lang sein. Ist 
 die Seite zu groß / zu lang für das Browser-Fenster, dann erscheint ein Scrollbalken  <!-- XE "Scrollen" -->  mit dem man den Rest der Seite erreichen kann, wie in der nächsten Abbildung gezeigt.
 
-![Ein Browser zeigt eine lange Webseite an](/images/das-web-und-html/lange-seite.png)
+![Ein Browser zeigt eine lange Webseite an](../images/das-web-und-html/lange-seite.png)
 
 
 Website
