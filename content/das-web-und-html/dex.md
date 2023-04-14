@@ -8,18 +8,18 @@ intro: Das erste Kapitel bietet einen theoretischen und praktischen Einstieg in 
 
 ### Was Sie wissen sollten
 
-* Ich weiss, wer das World Wide Web erfunden hat, wer die Standards des Webs definiert
+* Ich weiss, wer das World Wide Web erfunden hat und wer die Standards des Webs definiert.
 * Ich verstehe wie die drei Standards HTTP, URL und HTML zusammenspielen und das Web definieren.
-* Ich verstehe wie eine HTTP Anfrage aufgebaut ist: Request und Response
-* Ich weiss wie ein Dokument im HTML aufgebaut ist: head + body, tags, attribute, character entities
-* Ich kenne die HTML-Tags für Überschriften, Absätze, Links, Bilder
-* Ich verstehe, dass es mehrere Upload-Methoden gibt
+* Ich verstehe wie eine HTTP Anfrage aufgebaut ist: Request und Response.
+* Ich weiss wie ein Dokument im HTML aufgebaut ist: head + body, tags, attribute, character entities.
+* Ich kenne die HTML-Tags für Überschriften, Absätze, Links und Bilder.
+* Ich verstehe, dass es mehrere Upload-Methoden gibt.
 
 ### Was Sie können sollten
 
-* Ich kann ein einfaches Dokument im HTML erstellen, oder einen vorgegebenen Text in HTML umwandeln
-* Ich kann die Korrektheit des HTMLCodes mit dem Validator des World Wide Web Consortium prüfen, und Fehler ausbessern bis der Code valide ist
-* Ich kann die Dateien einer Webseite auf einen Webserver hochladen
+* Ich kann ein einfaches Dokument im HTML erstellen, oder einen vorgegebenen Text in HTML umwandeln.
+* Ich kann die Korrektheit des HTML-Codes mit dem Validator des World Wide Web Consortium prüfen, und Fehler ausbessern bis der Code valide ist.
+* Ich kann die Dateien einer Webseite auf einen Webserver hochladen.
 
 ### Quellen und empfohlene Literatur
 
