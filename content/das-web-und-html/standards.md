@@ -41,13 +41,13 @@ Prinzip funktionieren Datei-Tauschbörsen.
 Webbrowser
 ----------
 
-Ein Webbrowser, oder kurz Browser  <!-- XE "Browser" -->  , ist ein Programm, das bei Eingabe 
+Ein Webbrowser, oder kurz Browser<!-- XE "Browser" -->, ist ein Programm, das bei Eingabe 
 einer URL über HTTP eine HTML-Webseite laden und anzeigen kann, es ist also der Client 
 zum World Wide Web. 
 Es gibt sehr viele verschiedene Webbrowser. Die folgende Abbildung zeigt vier davon: den Browser 
-„Mosaic“ <!-- XE "Mosaic" -->    <!-- XE "Browser:Mosaic" -->  , der im Jahre 1993 als zweiter Webbrowser 
+„Mosaic“<!-- XE "Mosaic" --><!-- XE "Browser:Mosaic" -->, der im Jahre 1993 als zweiter Webbrowser 
 mit grafischer Oberflächen stark zur Verbreitung des World Wide Web beigetragen hat,  und 
-die Browser Opera  <!-- XE "Opera" -->    <!-- XE "Browser:Opera" -->,   Mozilla  <!-- XE "Mozilla" -->    <!-- XE "Browser:Mozilla" -->  
+die Browser Opera<!-- XE "Opera" --><!-- XE "Browser:Opera" -->, Mozilla<!-- XE "Mozilla" --><!-- XE "Browser:Mozilla" -->  
 und Chrome (in Versionen aus verschiedenen Jahren).
  
 ![Webbrowser: Mosaic (1993), Opera(2004) und Mozilla(2004), Chrome(2011)](../images/das-web-und-html/browsers.png)
