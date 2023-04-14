@@ -25,7 +25,7 @@ einen bestimmten Dienst anbietet, ein Client ist der „Kunde“, also der Compu
 Dienst in Anspruch nimmt.
 Nach diesem Prinzip funktionieren Web, E-Mail, SFTP:
 
-| Dienst | Client | Server |
+| Dienst  | Client | Server |
 |:--------|:-------|:-------|
 |Web|Webbrowser<!-- XE "Webbrowser" --> - lädt Webseiten vom Server und stellt sie dar|Webserver<!-- XE "Webserver" --> – liefert auf Anfrage die Webseiten|
 |E-Mail|E-Mail<!-- XE "E-Mail" --> Programm – lädt E-Mails vom Server, zeigt sie an, kann neue E-Mails an einen Server schicken der sie zustellt, …|Mailserver – speichert E-Mail in verschiedenen Postfächern, leitet E- Mail weiter (an den Server der EmpfängerIn)|
@@ -33,7 +33,7 @@ Nach diesem Prinzip funktionieren Web, E-Mail, SFTP:
 {: class="table table-condensed table-bordered" style="width:auto"}
 
 
-Eine Alternative zu Client/Server ist Peer-zu-Peer<!-- XE "Peer-zu-Peer" -->  . Dabei sind alle 
+Eine Alternative zu Client/Server ist Peer-zu-Peer<!-- XE "Peer-zu-Peer" -->. Dabei sind alle 
 beteiligten Computer gleichberechtigt, es gibt keine verschiedenen Rollen. Nach diesem 
 Prinzip funktionieren Datei-Tauschbörsen.
 
@@ -195,8 +195,8 @@ durchführen/beantworten zu können. Ein Protokoll mit dieser Eigenschafft nennt
 
 Das war ein sehr einfachs Beispiel, wie das Protokoll ablaufen kann. Einen tieferne Einblick in HTTP erhalten Sie im Kapitel [http](/http/).
 
-Quellen und weiter Lektüre
----------
+Quellen und weitere Lektüre
+---------------------------
 
 * [Aufstieg und Fall des PCs](http://www.asymco.com/2012/01/17/the-rise-and-fall-of-personal-computing/)  
 * [HTML5 Candidate Recommendation](https://www.w3.org/TR/html5/)
