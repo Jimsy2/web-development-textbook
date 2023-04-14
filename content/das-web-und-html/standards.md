@@ -7,9 +7,9 @@ Für diese Lehrbuch ist eine technische Sicht auf das World Wide Web die relevan
 Das World Wide Web ist also ein verteiltes (Client/Server) Informationssystem, 
 das durch folgende drei Standards definiert wird:
 
-* URL  <!-- XE "URL" -->   (Uniform Resource Locators) ursprünglich [RFC 1738](http://www.w3.org/Addressing/rfc1738.txt)
-* HTTP  <!-- XE "HTTP" -->   (Hypertext Transfer Protocol) ursprünglich [RFC 2616](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
-* HTML  <!-- XE "HTML" -->    <!-- XE "XHTML" -->   (Hypertext Markup Language) 
+* URL<!-- XE "URL" --> (Uniform Resource Locators) ursprünglich [RFC 1738](http://www.w3.org/Addressing/rfc1738.txt)
+* HTTP<!-- XE "HTTP" --> (Hypertext Transfer Protocol) ursprünglich [RFC 2616](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
+* HTML<!-- XE "HTML" --><!-- XE "XHTML" --> (Hypertext Markup Language) 
 
 Die aktuelle Version von HTTP ist 1.2, wir befinden uns gerade im Übergang auf HTTP 2.0
 HTML verwenden wir in der Version 5. 
@@ -19,7 +19,7 @@ Rund um diese drei Standards ordnen sich weitere wichtige Begriffe an:
 Client/Server
 -------------
 
-Das Client  <!-- XE "Client" -->  /Server  <!-- XE "Server" -->   Prinzip ist ein allgemeines Prinzip wie 
+Das Client<!-- XE "Client" -->  /Server<!-- XE "Server" --> Prinzip ist ein allgemeines Prinzip wie 
 Dienste in einem Computernetzwerk aufgebaut sein können: Ein Server ist ein Computer der 
 einen bestimmten Dienst anbietet, ein Client ist der „Kunde“, also der Computer der den 
 Dienst in Anspruch nimmt.
@@ -27,13 +27,13 @@ Nach diesem Prinzip funktionieren Web, E-Mail, SFTP:
 
 | Dienst | Client | Server |
 |:--------|:-------|:-------|
-|Web|Webbrowser  <!-- XE "Webbrowser" --> - lädt Webseiten vom Server und stellt sie dar|Webserver  <!-- XE "Webserver" -->   – liefert auf Anfrage die Webseiten|
-|E-Mail|E-Mail  <!-- XE "E-Mail" --> Programm – lädt E-Mails vom Server, zeigt sie an, kann neue E-Mails an einen Server schicken der sie zustellt, …|Mailserver – speichert E-Mail in verschiedenen Postfächern, leitet E- Mail weiter (an den Server der EmpfängerIn)|
-|SFTP|SFTP-Client  <!-- XE "SFTP" -->   – lädt Dateien (verlüsselt) von einem Server herunter oder auf einen Server hinauf|SFTP-Server – speichert Dateien|
+|Web|Webbrowser<!-- XE "Webbrowser" --> - lädt Webseiten vom Server und stellt sie dar|Webserver<!-- XE "Webserver" --> – liefert auf Anfrage die Webseiten|
+|E-Mail|E-Mail<!-- XE "E-Mail" --> Programm – lädt E-Mails vom Server, zeigt sie an, kann neue E-Mails an einen Server schicken der sie zustellt, …|Mailserver – speichert E-Mail in verschiedenen Postfächern, leitet E- Mail weiter (an den Server der EmpfängerIn)|
+|SFTP|SFTP-Client<!-- XE "SFTP" --> – lädt Dateien (verlüsselt) von einem Server herunter oder auf einen Server hinauf|SFTP-Server – speichert Dateien|
 {: class="table table-condensed table-bordered" style="width:auto"}
 
 
-Eine Alternative zu Client/Server ist Peer-zu-Peer  <!-- XE "Peer-zu-Peer" -->  . Dabei sind alle 
+Eine Alternative zu Client/Server ist Peer-zu-Peer<!-- XE "Peer-zu-Peer" -->  . Dabei sind alle 
 beteiligten Computer gleichberechtigt, es gibt keine verschiedenen Rollen. Nach diesem 
 Prinzip funktionieren Datei-Tauschbörsen.
 
@@ -59,7 +59,7 @@ Computer“ eingesetzt werden, einem Computer mit grafischer Oberfläche und ein
 Monitor. 
 Es gibt aber auch „exotischere“ Browser. Die nächste Abbildung zeigt den Browser lynx,
 der nur Text darstellt, aber keine Bilder. Daneben sehen Sie eine 
-„Braille  <!-- XE "Braille" -->   Ausgabezeile“, ein Gerät, das eine Zeile Text in eine Zeile 
+„Braille<!-- XE "Braille" --> Ausgabezeile“, ein Gerät, das eine Zeile Text in eine Zeile 
 Blindenschrift übersetzt. Mit diesem Webbrowser und diesem Ausgabegerät können Blinde 
 im Web surfen. 
     
@@ -82,10 +82,10 @@ Adaptionen der klassischen Desktop Browser (Firefox).
 Webseite
 --------
 
-Die Dokumente, die im Webbrowser dargestellt werden nennt man Webseiten. Eine Webseite  <!-- XE "Webseite" -->    <!-- XE "Seite" -->   ist – technisch gesehen – ein Dokument im HTML-Format. 
+Die Dokumente, die im Webbrowser dargestellt werden nennt man Webseiten. Eine Webseite<!-- XE "Webseite" --><!-- XE "Seite" --> ist – technisch gesehen – ein Dokument im HTML-Format. 
 
 Eine Webseite kann – im Gegensatz zu einer Seite in einem Buch – beliebig lang sein. Ist 
-die Seite zu groß / zu lang für das Browser-Fenster, dann erscheint ein Scrollbalken  <!-- XE "Scrollen" -->  mit dem man den Rest der Seite erreichen kann, wie in der nächsten Abbildung gezeigt.
+die Seite zu groß / zu lang für das Browser-Fenster, dann erscheint ein Scrollbalken<!-- XE "Scrollen" -->  mit dem man den Rest der Seite erreichen kann, wie in der nächsten Abbildung gezeigt.
 
 ![Ein Browser zeigt eine lange Webseite an](../images/das-web-und-html/lange-seite.png)
 
@@ -94,7 +94,7 @@ Website
 -------
 
 Als Webseite wird also ein Dokument bezeichnet. Verwechseln Sie diesen Begriff nicht mit 
-dem englischen Wort Website  <!-- XE "Website" -->  . Eine Website besteht aus mehreren 
+dem englischen Wort Website<!-- XE "Website" -->  . Eine Website besteht aus mehreren 
 Webseiten, die zusammen gehören und untereinander verlinkt sind. Achtung: es gibt kein Wort <strike>Webside</strike>. 
 
  
@@ -118,7 +118,7 @@ der nur auf Windows läuft.
 URL
 ---
 
-Eine URL  <!-- XE "URL" -->   ist die Adresse eines Dokuments am Web oder in einem anderen 
+Eine URL<!-- XE "URL" --> ist die Adresse eines Dokuments am Web oder in einem anderen 
 Online-Informationssystem. Ein Beispiel:
 
     http://multimediatechnology.at:80/web-communities/#master
@@ -142,7 +142,7 @@ Parameter enthalten:
 
     http://www.google.com/search?q=schokolade&ie=utf-8&oe=utf-8
 
-Mit den Fragezeichen, dem kaufmännischen Und und dem Ist-Gleich-Zeichen werden hier Parameter  <!-- XE "Parameter" -->   an die URL angefügt.  
+Mit den Fragezeichen, dem kaufmännischen Und und dem Ist-Gleich-Zeichen werden hier Parameter<!-- XE "Parameter" --> an die URL angefügt.  
 
 | Parameter | Wert |
 |:----------|:-----|
@@ -168,8 +168,8 @@ HTTP-URLs sind nicht die einzigen URLs, ein Beispiel mit einem anderen
 HTTP
 ----
 
-Das Hypertext Transfer Protocol  <!-- XE "Hypertext Transfer Protocol" -->    <!-- XE "HTTP" -->   ist ein 
-relativ simples Protokoll, das immer TCP  <!-- XE "TCP" -->   -Verbindungen verwendet. Alle 
+Das Hypertext Transfer Protocol<!-- XE "Hypertext Transfer Protocol" --><!-- XE "HTTP" --> ist ein 
+relativ simples Protokoll, das immer TCP<!-- XE "TCP" -->-Verbindungen verwendet. Alle 
 Aktivität wird vom Client (=Browser) initiiert.  In der einfachsten Form sieht
 HTTP so aus (hier 9 Schritte am Beispiel der URL `http://multimediatechnology.at/web-communities/#master`):
 
@@ -191,7 +191,7 @@ denselben Server richten. Die nächste Anfrage, die der Server beantwortet, kann
 Client kommen, oder von einem anderen Client. Keiner der beiden (Client und Server) muß 
 speichern mit wem er gerade Daten ausgetauscht hat, um die nächste Anfrage 
 durchführen/beantworten zu können. Ein Protokoll mit dieser Eigenschafft nennt man 
-"zustandslos" ("stateless").  <!-- XE "stateless" -->    <!-- XE "zustandslos" -->  Dadurch ist es sehr einfach einen Server zu programmieren. 
+"zustandslos" ("stateless").<!-- XE "stateless" --><!-- XE "zustandslos" -->  Dadurch ist es sehr einfach einen Server zu programmieren. 
 
 Das war ein sehr einfachs Beispiel, wie das Protokoll ablaufen kann. Einen tieferne Einblick in HTTP erhalten Sie im Kapitel [http](/http/).
 
