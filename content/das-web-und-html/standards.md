@@ -75,7 +75,7 @@ zugenommen: Smartphones und Tablets.
 Statistik von [StatsCounter](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide/#monthly-200901-202008)
 
 Auf diesen neuen Geräten gibt es auch Webbrowser - teilweise spezialisierte Software (Android Browser), teilweise
-adaptionen der klassischen Desktop Browser (Firefox).
+Adaptionen der klassischen Desktop Browser (Firefox).
  
 ![Browser auf Smartphones, 2010](../images/das-web-und-html/browser-am-smartphone.jpg)
 
@@ -100,7 +100,7 @@ Webseiten, die zusammen gehören und untereinander verlinkt sind. Achtung: es gi
  
 
 Webserver
----
+---------
 
 Als Webserver bezeichnet man entweder den ganzen Computer, 
 oder speziell nur die Software, die eine Webseite liefert. 
