@@ -118,7 +118,7 @@ der nur auf Windows läuft.
 URL
 ---
 
-Eine URL<!-- XE "URL" --> ist die Adresse eines Dokuments am Web oder in einem anderen 
+Eine URL<!-- XE "URL" --> ist die Adresse eines Dokuments im Web oder in einem anderen 
 Online-Informationssystem. Ein Beispiel:
 
     http://multimediatechnology.at:80/web-communities/#master
@@ -191,7 +191,7 @@ denselben Server richten. Die nächste Anfrage, die der Server beantwortet, kann
 Client kommen, oder von einem anderen Client. Keiner der beiden (Client und Server) muß 
 speichern mit wem er gerade Daten ausgetauscht hat, um die nächste Anfrage 
 durchführen/beantworten zu können. Ein Protokoll mit dieser Eigenschafft nennt man 
-"zustandslos" ("stateless").<!-- XE "stateless" --><!-- XE "zustandslos" -->  Dadurch ist es sehr einfach einen Server zu programmieren. 
+"zustandslos" ("stateless")<!-- XE "stateless" --><!-- XE "zustandslos" -->. Dadurch ist es sehr einfach einen Server zu programmieren. 
 
 Das war ein sehr einfachs Beispiel, wie das Protokoll ablaufen kann. Einen tieferne Einblick in HTTP erhalten Sie im Kapitel [http](/http/).
 
