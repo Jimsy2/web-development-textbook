@@ -27,7 +27,7 @@ Nach diesem Prinzip funktionieren Web, E-Mail, SFTP:
 
 | Dienst  | Client | Server |
 |:--------|:-------|:-------|
-|Web|Webbrowser<!-- XE "Webbrowser" --> - lädt Webseiten vom Server und stellt sie dar|Webserver<!-- XE "Webserver" --> – liefert auf Anfrage die Webseiten|
+|Web|Webbrowser<!-- XE "Webbrowser" --> – lädt Webseiten vom Server und stellt sie dar|Webserver<!-- XE "Webserver" --> – liefert auf Anfrage die Webseiten|
 |E-Mail|E-Mail<!-- XE "E-Mail" --> Programm – lädt E-Mails vom Server, zeigt sie an, kann neue E-Mails an einen Server schicken der sie zustellt, …|Mailserver – speichert E-Mail in verschiedenen Postfächern, leitet E- Mail weiter (an den Server der EmpfängerIn)|
 |SFTP|SFTP-Client<!-- XE "SFTP" --> – lädt Dateien (verlüsselt) von einem Server herunter oder auf einen Server hinauf|SFTP-Server – speichert Dateien|
 {: class="table table-condensed table-bordered" style="width:auto"}
